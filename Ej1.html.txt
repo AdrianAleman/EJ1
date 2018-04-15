@@ -1,0 +1,7 @@
+<html> 
+<body>
+<script>
+document.write("Hola")
+</script>
+</body>
+</html>
